@@ -5195,8 +5195,8 @@ https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
 https://bbtv.intvstream.net:3988/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="Italie;Dead" tvg-name="Focus Ⓖ",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Italie;Dead",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Italie",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://i.imgur.com/9y1zIAe.png" group-title="Italie;Dead" tvg-name="Frisbee",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 #EXTINF:-1 tvg-id="gamberorosso" tvg-logo="https://i.imgur.com/PRmiQ24.png" group-title="Italie;Dead" tvg-name="Gambero Rosso",Gambero Rosso
